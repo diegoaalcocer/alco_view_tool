@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AlcoViewTool::Renderer.copyright 'Diego Alcocer', 'All rights reserved'
+```
 
 ## Development
 
